@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="connect-Web.config Connection String" description="connect Connection String used in web.config by the application to access the database." defaultValue="Data Source=DESKTOP-VA87I8D;Initial Catalog=DataReact;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="F:\\antd-demo\\react_API\\WebApplication1\\WebApplication1\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='connect']/@connectionString" />
+  </parameter>
+  <parameter name="DataReactEntities1-Web.config Connection String" description="DataReactEntities1 Connection String used in web.config by the application to access the database." defaultValue="metadata=res://*/ModelServer.Model1.csdl|res://*/ModelServer.Model1.ssdl|res://*/ModelServer.Model1.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=db-camnguyen.database.windows.net;initial catalog=DataReact;user id=cam;password=Nam123456;MultipleActiveResultSets=True;App=EntityFramework&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="F:\\antd-demo\\react_API\\WebApplication1\\WebApplication1\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DataReactEntities1']/@connectionString" />
+  </parameter>
+</parameters>

@@ -1,0 +1,10 @@
+F:\antd-demo\AddData\AddData\bin\Debug\AddData.exe.config
+F:\antd-demo\AddData\AddData\bin\Debug\AddData.exe
+F:\antd-demo\AddData\AddData\bin\Debug\AddData.pdb
+F:\antd-demo\AddData\AddData\obj\Debug\AddData.Form1.resources
+F:\antd-demo\AddData\AddData\obj\Debug\AddData.Properties.Resources.resources
+F:\antd-demo\AddData\AddData\obj\Debug\AddData.csproj.GenerateResource.cache
+F:\antd-demo\AddData\AddData\obj\Debug\AddData.csproj.CoreCompileInputs.cache
+F:\antd-demo\AddData\AddData\obj\Debug\AddData.exe
+F:\antd-demo\AddData\AddData\obj\Debug\AddData.pdb
+F:\antd-demo\AddData\AddData\obj\Debug\AddData.csprojAssemblyReference.cache
